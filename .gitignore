@@ -1,0 +1,11 @@
+task_1/.terraform/
+task_1/terraform.tfstate
+task_1/terraform.tfstate.backup
+task_1/.terraform.lock.hcl
+task_1/lambda_function.zip
+
+task_2/.terraform/
+task_2/terraform.tfstate
+task_2/terraform.tfstate.backup
+task_2/.terraform.lock.hcl
+task_2/lambda_function.zip

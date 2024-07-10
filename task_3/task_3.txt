@@ -1,0 +1,21 @@
+1. Co zrobisz: 
+- Sprawdzenie czy po naszej stronie na pewno wszystko skonfigurowane,
+- Odszukanie maila/ticketu sprzed 2 miesięcy w temacie konfiguracji VPN,
+- Rozmowa z Project Managerem/Przełożonym/Architektem na temat VPN, na którego konfiguracje czekamy,
+- Uzgodnienie czy temat powinien być eskalowany,
+- Przy wysłaniu maila dodanie do CC Project Manager/Przełożony/Architekt i odpowiednie osoby po stronie klienta.
+
+2. Wiadomość do wysłania:
+
+Subject: Integration with AWS Infrastructure [#12345]
+
+I hope this message finds you well. I’m reaching out in reference to the ticket from 2 months ago (Ticket #12345)[link].
+
+On our end, all necessary preparations have been completed, and we are ready to establish the VPN connection with your hosting environment. All required configuration details can be found in the above ticket.
+
+Could you please provide an update on the current status of the VPN setup and any technical issues that may require our assistance or additional resources?
+
+We are available for a meeting to discuss the next steps and ensure a smooth integration process.  
+
+Best regards,
+XX

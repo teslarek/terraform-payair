@@ -1,0 +1,18 @@
+We would like to inform you that the VPN connection between our AWS infrastructure and your hosting environment has been configured. Below are the details and information required for configuration on your side.
+
+Routing: Static
+VPN Type: IPsec
+Customer Gateway IP: 217.113.234.247 (provided by the customer)
+BGP ASN: 65000
+VPC CIDR block: 10.0.0.0/16
+Outside IP addresses:
+    VPN tunnel 1: "54.72.9.2"
+    VPN tunnel 2: "63.32.137.52"
+Pre-shared keys:
+    VPN Tunnel 1: <to be provided through a secure communication channel>
+    VPN Tunnel 2: <to be provided through a secure communication channel>
+
+Please configure your VPN device using the above information. In case of any questions or issues, we are available to assist.
+
+Best regards,
+XX
